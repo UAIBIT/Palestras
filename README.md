@@ -1,4 +1,4 @@
-# 🔺 Palestras
+#  2025 April 21st - Palestras 1º WORKSHOP UAIBIT 🔺|🐬
 Cartões Off Ramp
 
 
