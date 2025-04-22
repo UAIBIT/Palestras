@@ -1,8 +1,8 @@
-# Palestras
+# 🔺 Palestras
 Cartões Off Ramp
 
 
-# Comparativo de Cartões Pré-pagos com Off-Ramp (GitHub Markdown)
+# 🔺 Comparativo de Cartões Pré-pagos com Off-Ramp 
 
 | Aspecto | RedotPay | KAST | Offramp | Crypto.com | Dolphin Card (AQUA) |
 | --- | --- | --- | --- | --- | --- |
