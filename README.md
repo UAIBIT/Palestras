@@ -20,5 +20,5 @@ Cartões Off Ramp
 | **KYC** | Sim, KYC necessário (5-10 minutos) | Sim, KYC necessário | Sim, KYC necessário | Sim, KYC necessário | Não, sem KYC (reforçando privacidade) |
 | **Aceitação Global** | 130 milhões de comerciantes (Visa) | 100+ países (Visa/Mastercard) | 160+ países (formato virtual, Rain Cards) | 80 milhões de comerciantes (Visa) | Qualquer site que aceite Visa online (milhões de comerciantes) |
 | **Sistemas Disponíveis** | iOS, Android, Windows (via emulador LDPlayer) | iOS, Android (provável, padrão para cartões cripto) | Web, Telegram | iOS, Android | iOS, Android |
-| **Aplicativos** | RedotPay: Crypto Card & Pay (iOS, Android) | Não especificado; provável app para iOS e Android | Offramp (Web, Telegram) | Crypto.com (iOS, Android) | AQUA Wallet (iOS, Android) |
-| **Página de Internet** | www.redotpay.com | Não disponível publicamente | www.offramp.xyz | crypto.com | aquawallet.io |
+| **Aplicativos** | RedotPay: Crypto Card & Pay (iOS, Android) | iOS e Android | Offramp (Web, Telegram) | Crypto.com (iOS, Android) | AQUA Wallet (iOS, Android) |
+| **Página de Internet** | www.redotpay.com | www.kast.xyz | www.offramp.xyz | crypto.com | aquawallet.io |
